@@ -1,0 +1,193 @@
+<html>
+    <body>
+        <header>
+            <img src="/uploads/2021/02/logo_0_1613139341.png" height="50px"/>
+            <nav>
+                <a class="g" href="">Главная</a>
+                <a href="#catalog">Каталог</a>
+                <a href="">Оплата</a>
+                <a href="">Отзывы</a>
+                <a href="g"> <img class="as" src="https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM"/>
+                </a>
+
+                <a href="g">
+            <img class="tg" src="data:image/png;base64,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"/>
+
+                </a>
+
+            </nav>
+        </header>
+        <main>
+            <h1>Магазин мультипу</h1>
+
+            
+<div class="mo">
+
+
+<style>
+.dropbtn {
+    background-color:lightcoral;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: 2px solid lightcoral;
+    cursor: pointer;
+      text-align: center;
+      white: 500px;
+      
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: rgb(250, 219, 219);
+     border-radius: 5px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(250, 219, 219);
+    min-width: 500px;
+    overflow: auto;
+    padding: 10px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 10px;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown a:hover {background-color: #ddd;}
+
+.show {display: block;}
+</style>
+
+
+
+
+<div class="dropdown">
+<button onclick="myFunction()" class="dropbtn">О породе</button>
+  <div id="myDropdown" class="dropdown-content">
+    <p>Мальтипу – скрещенная порода собак, которая подойдет почти всем, от ребенка до старшего поколения. Является дизайнерской породой, чия популярность пришла к нам из Соединенных Штатов и крепко закрепилась среди любителей миниатюрных собак.
+
+Характеристика внешности: атлетическая, пропорциональная собачка, которая всегда очень проворна и активна.
+
+Размеры Мальтипу достаточно маленькие, иногда так называемые «карманные» собачки ростом в холке от 22 до 30 см и весе 1,8 – 3,5 кг. От родителей этой породе досталась мягкая и пушистая шерсть, минимальная линька, и гипоаллергенные свойства. Прекрасно подходит для жизни в квартире.</p>
+  </div>
+</div>
+
+<script>
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
+</div>
+            
+            
+
+
+            <img class="head_img" src="https://i.ibb.co/wL2ystY/5ea8a733-1d1c-4cb7-b235-cc409f26baaa.jpg" alt="5ea8a733-1d1c-4cb7-b235-cc409f26baaa" border="0"width="500px"/>
+            <h2 id="catalog">Каталог</h2>
+            <section class="catalog">
+                <article class="product">
+                    <img class="fg" src="https://i.ibb.co/wL2ystY/5ea8a733-1d1c-4cb7-b235-cc409f26baaa.jpg" alt="5ea8a733-1d1c-4cb7-b235-cc409f26baaa" border="0"><br/>
+                    <a href="h">Собаки</a>
+                </article>
+                <article class="product">
+                    <img src="/uploads/2021/02/colorful-2822922_1920_0_1612513261.jpg" height="100px"/><br/>
+                    <a href="h">Игрушки</a>
+                </article>
+                <article class="product">
+                    <img src="/uploads/2021/02/kennels-for-pets-3821861_1920_0_1612513262.jpg" height="100px"/><br/>
+                    <a href="h">Домики</a>
+                </article>
+                <article class="product">
+                    <img src="/uploads/2021/02/hair-clip-4344802_1920_0_1613139580.png" height="100px"/><br/>
+                    <a href="h">Груминг</a>
+                </article>
+                <article class="product">
+                    <img src="/uploads/2021/02/chemistry-575651_1280_0_1613139577.png" height="100px"/><br/>
+                    <a href="h">Ветпрепараты</a>
+                </article>
+                <article class="product">
+                    <img src="/uploads/2021/02/cat-2170495_1920_0_1612513261.jpg" height="100px"/><br/>
+                    <a href="h">Корма</a>
+                </article>
+            </section>
+            <h2 id="principles">Наши принципы</h2>
+            <section class="principles">
+                <article class="principle">
+                    <img src="/uploads/2021/02/chemistry-2389151_640_0_1612518875.png" width="50px" height="50px"/>
+                    <p>товары проходят ветэкспертизу</p>
+                </article>
+                <article class="principle">
+                    <img src="/uploads/2021/02/truck-1918551_640_0_1612518875.png" width="80px" height="50px"/>
+                    <p>доставка в любые точки города</p>
+                </article>
+                <article class="principle">
+                    <img src="/uploads/2021/02/icons-1831923_640_0_1612518875.png" width="50px" height="50px"/>
+                    <p>бесплатная консультация</p>
+                </article>
+            </section>
+            <section class="question-answer">
+                <article class="qua-item">
+                    <span class="question"><b>Какие сроки доставки товара?</b></span>
+                    <p>Сроки доставки курьером от 3-х дней до 2-х недель.<br/> 
+                        Возможна доставка в пункт самовывоза.
+                    </p>
+                </article>
+                <article class="qua-item">
+                    <span class="question"><b>Возможен ли возврат товара?</b></span>
+                    <p>Возврат товара возможен не позднее недели после получения.<br/>
+                        Корма и лекарства возврату не подлежат.
+                    </p>
+                </article>
+                <article class="qua-item">
+                    <span class="question"><b>Есть ли в магазине ветврач?</b></span>
+                    <p>Да, врач-терапевт проводит бесплатные консультации<br/>
+                        ежедневно с 10.00 до 17.00.
+                    </p>
+                </article>
+            </section>
+            <article class="slogan">
+                <div class="slogan_img">
+                    <img src="/uploads/2021/02/cat-312290_1280%201_0_1612539485.png" width="70px"/>
+                </div>
+                <div class="slogan_text">
+                    <p>Ваши питомцы полюбят наш магазин!</p>
+                </div>
+            </article>
+        </main>
+        <footer>
+            <p><b>Эл.почта:</b></p>
+            <p><b>Телефон:</b></p>
+        </footer>
+    </body>
+</html>
